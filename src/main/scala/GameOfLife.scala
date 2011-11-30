@@ -1,4 +1,4 @@
-package gamooflife
+package gameoflife
 
 /**
  *
